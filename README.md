@@ -63,13 +63,6 @@ If any field is left blank, the app displays:
 ## Challenges Faced
 I initially struggled with passing data between MainActivity and SecondActivity using Intent extras. After correcting the keys and testing the app, the data displayed correctly.
 
-## Screenshots
-Add screenshots of:
-1. Main screen.
-2. Toast message after adding an item.
-3. Packing list screen.
-4. Return to Main Screen button.
-
 ## GitHub Repository Link
 https://github.com/YourUsername/TravelPackingApp
 
