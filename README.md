@@ -34,7 +34,12 @@ The Travel Packing App helps users create a simple packing list for a trip. User
 | Toothbrush | Toiletries | 1 | Essential for hygiene |
 | Passport | Documents | 1 | Do not forget |
 
-## Screens
+## Screenshots
+
+### Screen 1
+![Screen 1](TPA1.png) 
+### Screen 2
+![Screen 2](TPA2.png) 
 
 ### Main Screen
 The main screen allows the user to:
