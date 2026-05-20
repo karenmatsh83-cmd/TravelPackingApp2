@@ -64,7 +64,7 @@ If any field is left blank, the app displays:
 I initially struggled with passing data between MainActivity and SecondActivity using Intent extras. After correcting the keys and testing the app, the data displayed correctly.
 
 ## GitHub Repository Link
-https://github.com/YourUsername/TravelPackingApp
+https://github.com/YourUsername/TravelPackingApp2
 
 ## How to Run the App
 1. Clone the repository.
